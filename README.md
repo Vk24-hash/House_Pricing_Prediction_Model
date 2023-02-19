@@ -1,4 +1,4 @@
-# Housing predictions
+# Real Estate price predictions
 
 
 Tried the following model:
