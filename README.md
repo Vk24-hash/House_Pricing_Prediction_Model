@@ -1,6 +1,6 @@
 # Housing predictions
 
-Basic of Machine learning
+
 Tried the following model:
 1. Linear Regression
 2. Random Forest(Most accurate one)
